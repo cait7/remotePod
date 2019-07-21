@@ -1,0 +1,22 @@
+{
+  "name": "myProject2",
+  "version": "0.1.0",
+  "summary": "A short description of myProject2.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/caitan/myProject2",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "caitan": "552378875@qq.com"
+  },
+  "source": {
+    "git": "https://github.com/caitan/myProject2.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "myProject2/Classes/**/*"
+}
